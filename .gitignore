@@ -3,6 +3,7 @@ bin/
 /db
 .eclipse
 *.jpeg
+*.tiff
 /lib/
 /logs/
 /modules
