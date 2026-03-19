@@ -10,3 +10,4 @@
 777777
 # for amend comand
 # remembered -looks like
+#secure passw, nickname
